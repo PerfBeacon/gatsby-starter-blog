@@ -9326,10 +9326,10 @@ neo-async@^2.5.0, neo-async@^2.6.1:
   resolved "https://registry.yarnpkg.com/neo-async/-/neo-async-2.6.1.tgz#ac27ada66167fa8849a6addd837f6b189ad2081c"
   integrity sha512-iyam8fBuCUpWeKPGpaNMetEocMt364qkCsfL9JuhjXX6dRnguRVOfk2GZaDpPjcOKiiXCPINZC1GczQ7iTq3Zw==
 
-netlify-build-plugin-perfbeacon@^1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/netlify-build-plugin-perfbeacon/-/netlify-build-plugin-perfbeacon-1.0.1.tgz#387de381a8189a6057584de0c47a9af45bd5e512"
-  integrity sha512-d7/EebrsFpTqqHjnGrmLpDEkp78OoFJUY14Lvu8Df6H6/VoDUqToHBYOqDAh/gzX3HjwBM9MRFrxEFQdmHQqoA==
+netlify-build-plugin-perfbeacon@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/netlify-build-plugin-perfbeacon/-/netlify-build-plugin-perfbeacon-1.0.2.tgz#f5976a35f00bc881f59ed94f50550dbafc77fef1"
+  integrity sha512-dolcjNg+/srskeW4eQhP5xtHIibD4tBFzFeacXoIxpACFi4YMKrTTIbL9GJ3feXAPqNXArikUmUJs/nJwDrXdw==
   dependencies:
     node-fetch "^2.6.0"
 
