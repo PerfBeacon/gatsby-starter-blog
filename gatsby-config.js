@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Gatsby Starter Blog w/ PerfBeacon`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Max Rozen`,
+      summary: `creator of PerfBeacon.com.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `A starter blog demonstrating what Gatsby + PerfBeacon can do.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
     social: {
       twitter: `kylemathews`,
@@ -79,5 +79,6 @@ module.exports = {
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
+    "gatsby-plugin-no-javascript",
   ],
 }
